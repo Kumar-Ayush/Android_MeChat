@@ -4,7 +4,7 @@
 
 API from following sorces have been itegrated in the code.
 
-https://core.telegram.org/api/obtaining_api_id
-https://support.hockeyapp.net/home
-https://www.bing.com/dev/en-us/dev-center
-https://developer.foursquare.com/
+1.https://core.telegram.org/api/obtaining_api_id
+2.https://support.hockeyapp.net/home
+3.https://www.bing.com/dev/en-us/dev-center
+4.https://developer.foursquare.com/
